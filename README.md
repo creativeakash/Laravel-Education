@@ -55,12 +55,13 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 - Login to gmail through host email id in your browser and open following link and turn it ON
 ```
-https://myaccount.google.com/lesssecureapps
+https://www.facebook.com/CodeCareBD/
+
 ```
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+- [Contact on Facebook]https://www.facebook.com/groups/35186.)
+- [Subscribe my Channel codecarebd On Youtube](https://www.youtube.com/results?search_query=codecarebd)
